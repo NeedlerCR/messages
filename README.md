@@ -1,5 +1,37 @@
-<iframe 
-    src="https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat?embed=true" 
-    style="position:fixed; top:0; left:0; width:100%; height:100%; border:0; margin:0; padding:0; overflow:hidden;" 
-    allowfullscreen
-></iframe>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Redirect to Replit digicard -->
+<meta http-equiv="refresh" content="0;url=https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat/">
+
+<title>Digicard</title>
+<style>
+  /* Full-page fallback message */
+  html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000;
+    color: #fff;
+    font-family: sans-serif;
+    text-align: center;
+  }
+  p {
+    max-width: 400px;
+    line-height: 1.5;
+  }
+</style>
+</head>
+<body>
+<p>
+Redirecting to your Digicard…<br>
+If nothing happens, <a href="https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat/" target="_blank" style="color:#0f0;">click here</a>.
+</p>
+</body>
+</html>

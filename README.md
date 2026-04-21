@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -7,7 +6,7 @@
 <!-- Redirect to Replit digicard -->
 <meta http-equiv="refresh" content="0;url=https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat/">
 
-<title>Digicard</title>
+<title>Messages</title>
 <style>
   /* Full-page fallback message */
   html, body {
@@ -30,7 +29,7 @@
 </head>
 <body>
 <p>
-Redirecting to your Digicard…<br>
+Redirecting to your Messages…<br>
 If nothing happens, <a href="https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat/" target="_blank" style="color:#0f0;">click here</a>.
 </p>
 </body>

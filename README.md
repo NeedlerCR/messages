@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Redirect to Replit digicard -->
-<meta http-equiv="refresh" content="0;url=https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat/">
+<meta http-equiv="refresh" content="0;url=https://cigimessage.lovable.app/">
 
 <title>Messages</title>
 <style>
@@ -30,7 +30,7 @@
 <body>
 <p>
 Redirecting to your Messages…<br>
-If nothing happens, <a href="https://v0-messaging-service-p9dyc0wt7-needlercrs-projects.vercel.app/chat/" target="_blank" style="color:#0f0;">click here</a>.
+If nothing happens, <a href="https://cigimessage.lovable.app/" target="_blank" style="color:#0f0;">click here</a>.
 </p>
 </body>
 </html>
